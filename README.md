@@ -72,7 +72,7 @@
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
-<a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>&emsp;
+<a href="https://wakatime.com/@e8e9f94a-c6d5-4359-ad10-7569a08bae41"><img src="https://wakatime.com/badge/user/e8e9f94a-c6d5-4359-ad10-7569a08bae41.svg" /></a>&emsp;
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
