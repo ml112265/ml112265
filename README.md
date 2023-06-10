@@ -34,7 +34,7 @@
 
 <p>&emsp;&emsp;大家好，我是小马同学。</p>
 <p>&emsp;&emsp;热爱编程、电影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为优秀的开源开发者。</p>
+<p>&emsp;&emsp;热爱计算机科学和互联网事业，励志成为优秀的开源开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码来理解世界和改变世界。</p>
 
 </td></tr>
@@ -190,9 +190,6 @@ mindmap
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 <div align="center" >
   
 <!-- GitHub 奖杯🏆 -->
@@ -200,7 +197,8 @@ mindmap
 
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ml112265&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ml112265&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ml112265" /> <br><br>
+
 
 <div align="center">
 
