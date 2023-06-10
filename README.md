@@ -197,12 +197,9 @@ mindmap
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
-
-<!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
   
 <!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=ml112265&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+<img  src="https://github-profile-trophy.vercel.app/?username=ml112265&theme=gruvbox" /><br>
 
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ml112265&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -220,13 +217,7 @@ mindmap
 </table>
 </div>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 <div align="center">
-
-<!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ml112265&theme=dark&hide_border=true" />
