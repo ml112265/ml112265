@@ -183,7 +183,4 @@ mindmap
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ml112265&theme=xcode" /> </div>
 
-<!-- GitHub Most Used Languages 编程语言对比统计图 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" /> </div>
-
 </div>
