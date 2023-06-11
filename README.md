@@ -24,7 +24,6 @@
 
 #  🙋 Hello
 
-<table>
 <tr><td>
 
 <!-- About me 关于我 -->
