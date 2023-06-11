@@ -168,15 +168,7 @@ mindmap
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
-
-<!-- svg -->
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,go,python,docker,git,linux" /><br>
 
 <div align="center" >
   
@@ -190,5 +182,8 @@ mindmap
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ml112265&theme=xcode" /> </div>
+
+<!-- GitHub Most Used Languages 编程语言对比统计图 -->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" /> </div>
 
 </div>
