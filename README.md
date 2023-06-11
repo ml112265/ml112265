@@ -30,8 +30,6 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
   
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
 <p>&emsp;&emsp;大家好，我是小马同学。</p>
 <p>&emsp;&emsp;热爱编程、电影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和互联网事业，励志成为优秀的开源开发者。</p>
@@ -44,8 +42,6 @@
 <!-- 近期博客 -->
 ### 📃 Recent Blog
   
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
 <!-- START_SECTION:blog -->
 * <a href='https://blog.csdn.net/u013146882/article/details/79265924' target='_blank'>JData数据处理及高潜用户购买意向预测 </a> - 2018-02-05
 * <a href='https://blog.csdn.net/u013146882/article/details/77685123' target='_blank'>srand()和rand() </a> - 2017-08-29
@@ -56,8 +52,6 @@
 <tr><td>
 
 ### 🤾‍♂️ Funny Soul
-
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/5403729/' target='_blank'>最近在读三国志</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-10
