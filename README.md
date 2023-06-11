@@ -45,9 +45,11 @@
 ### 🤾‍♂️ Funny Soul
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/5403729/' target='_blank'>最近在读三国志</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-10
-* <a href='https://book.douban.com/subject/36094930/' target='_blank'>看过史记</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-01
-* <a href='https://book.douban.com/subject/26642310/' target='_blank'>看过DOOM启示录</a> 🌟🌟🌟🌟🌟 力荐- 2022-10-07
+* <a href='https://movie.douban.com/subject/36292415/' target='_blank'>最近在看《史前星球第二季》</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-11
+* <a href='https://book.douban.com/subject/30424330/' target='_blank'>最近在读《Go语言并发之道》</a> 🌟🌟🌟 推荐- 2023-06-10
+* <a href='https://book.douban.com/subject/5403729/' target='_blank'>最近在读《三国志》</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-10
+* <a href='https://book.douban.com/subject/36094930/' target='_blank'>看过《史记》</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-01
+* <a href='https://book.douban.com/subject/26642310/' target='_blank'>看过《DOOM启示录》</a> 🌟🌟🌟🌟🌟 力荐- 2022-10-07
 <!-- END_SECTION:douban -->
 
 </td></tr>
