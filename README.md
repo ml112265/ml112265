@@ -168,7 +168,7 @@ mindmap
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=c,cpp,go,python,docker,git,linux" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,go,python,vim,git,docker,linux" /><br>
 
 <div align="center" >
   
