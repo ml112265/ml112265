@@ -134,18 +134,3 @@ mindmap
 ![Chrome Badge](https://camo.githubusercontent.com/79072292a9c8206c9e4ecfac901e57f3e7758d0c08555c2305b719789cecedeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4368726f6d652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d6368726f6d65)
 ![Git Badge](https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974)
 ![GitLab Badge](https://camo.githubusercontent.com/35b0a4cb52ffc87fc7c464f9f2527dec988b663d0ae86bf8d542ae5649bd2c9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162)
-
-<div align="center" >
-  
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=ml112265&theme=gruvbox" /><br>
-
-<div align="center">
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ml112265&theme=dark&hide_border=true" />
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ml112265&theme=xcode" /> </div>
-
-</div>
