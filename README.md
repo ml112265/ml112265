@@ -107,7 +107,7 @@ mindmap
 ![React Badge](https://camo.githubusercontent.com/137a7a0f28f9e326bcc81a5a0bd853c86435143774c15642d827a5788e778667/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374)
 ![Redis Badge](https://camo.githubusercontent.com/92044f5551739700b88958007d5fd5c5e192d442cfc43b55e704ef0d170a57dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656469732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5265646973)
 
-🧰 常用的工具
+🧰 常用工具
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
