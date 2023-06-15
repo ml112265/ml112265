@@ -54,26 +54,11 @@
 
 </td></tr>
 
-<tr><td>
-
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-
-<a href="https://wakatime.com/@e8e9f94a-c6d5-4359-ad10-7569a08bae41"><img src="https://wakatime.com/badge/user/e8e9f94a-c6d5-4359-ad10-7569a08bae41.svg" /></a>&emsp;
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-  
-</td></tr>
-</table>
-
 <div align="center" >
 
+<!-- 兴趣爱好统计 -->
+
+🕹️ 兴趣爱好
 
 ```mermaid
 mindmap
